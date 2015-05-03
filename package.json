@@ -2,7 +2,7 @@
   "name": "malver",
   "version": "0.0.1",
   "description": "Detects URLs considered to be malware-ish using simple sentiment analysis",
-  "main": "malver.js",
+  "main": "index.js",
   "dependencies": {
     "async": "^0.9.0",
     "google": "^1.1.0",
