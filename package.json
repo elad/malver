@@ -1,6 +1,6 @@
 {
   "name": "malver",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Detects URLs considered to be malware-ish using simple sentiment analysis",
   "main": "index.js",
   "dependencies": {
